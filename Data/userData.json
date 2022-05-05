@@ -1,1 +1,15 @@
-[{"name":"Abhijeet anand","email":"abhijeet.anand@adypu.edu.in","password":"mb@0123","phone":"6205858706"},{"id":"70b3b1fb-b3cb-45c0-834e-01d7983dad8f","name":"Phil","email":"phil@mindbowser.com","password":"mb@03456","phone":"9024846943"}]
+[
+  {
+    "name": "Abhijeet anand",
+    "email": "abhijeet.anand@adypu.edu.in",
+    "password": "mb@0123",
+    "phone": "6205858706"
+  },
+  {
+    "id": "70b3b1fb-b3cb-45c0-834e-01d7983dad8f",
+    "name": "Phil",
+    "email": "phil@mindbowser.com",
+    "password": "mb@03456",
+    "phone": "9024846943"
+  }
+]
