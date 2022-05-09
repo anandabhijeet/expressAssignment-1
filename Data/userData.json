@@ -1,1 +1,50 @@
-[{"name":"Abhijeet anand","email":"abhijeet.anand@adypu.edu.in","password":"Mb@01234","phone":"6205858706"},{"id":"70b3b1fb-b3cb-45c0-834e-01d7983dad8f","name":"Phil","email":"phil@adypu.edu.in","password":"Mb@12345","phone":"9024846943"},{"id":"1c512f21-41f8-49ea-98f3-f89ce619633e","name":"Jack","email":"jack@mindbowser.com","password":"mb@03456","phone":"6205858706"},{"id":"b5608a6b-b925-4686-b8b8-2309d7edbdbb","name":"Anand","email":"anand@mindbowser.com","password":"mb@03456","phone":"9162775572"},{"id":"f3f7e5fb-d312-4835-ba85-f083903e440f","name":"Anand7","email":"anand@mindbowser.com","password":"mb@03456","phone":"9162775572"},{"id":"8b4450ef-4383-4921-840d-50bc4e104ba5","name":"Anand7","email":"anand@mindbowser.com","password":"mb@03456","phone":"9162775572"}]
+[
+  {
+    "name": "Abhijeet anand",
+    "email": "abhijeet.anand@adypu.edu.in",
+    "password": "Mb@01234",
+    "phone": "6205858706"
+  },
+  {
+    "id": "70b3b1fb-b3cb-45c0-834e-01d7983dad8f",
+    "name": "Phil",
+    "email": "phil@adypu.edu.in",
+    "password": "Mb@12345",
+    "phone": "9024846943"
+  },
+  {
+    "id": "1c512f21-41f8-49ea-98f3-f89ce619633e",
+    "name": "Jack",
+    "email": "jack@mindbowser.com",
+    "password": "mb@03456",
+    "phone": "6205858706"
+  },
+  {
+    "id": "b5608a6b-b925-4686-b8b8-2309d7edbdbb",
+    "name": "Anand",
+    "email": "anand@mindbowser.com",
+    "password": "mb@03456",
+    "phone": "9162775572"
+  },
+  {
+    "id": "f3f7e5fb-d312-4835-ba85-f083903e440f",
+    "name": "Anand7",
+    "email": "anand@mindbowser.com",
+    "password": "mb@03456",
+    "phone": "9162775572"
+  },
+  {
+    "id": "8b4450ef-4383-4921-840d-50bc4e104ba5",
+    "name": "Anand7",
+    "email": "anand@mindbowser.com",
+    "password": "mb@03456",
+    "phone": "9162775572"
+  },
+  {
+    "id": "73b2d5f9-61a8-44f6-be4b-19d013ea47de",
+    "name": "Bruce",
+    "email": "bruce@mindbowser.com",
+    "password": "mb@034567",
+    "phone": "9162775572"
+  }
+]
